@@ -20,6 +20,20 @@
             - No need to implement but understand what's going on
     - ### Two pointer technique
         * looking for a cycle
+        * 2 pointers catching up to another
+        * Time O(?) - how many times loop execute
+        * Space O(1)
         * think of the speed of the 2 pointers
             * 1 fast or 1 slow
             * 2 traversing different list sizes
+        
+        - practice
+            - [X] [Linked List Cycle](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/)
+            - [X] [Linked List Cycle II](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/)
+            - [X] [Intersection of Two Linked Lists](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1215/)
+            - [X] [Remove Nth Node From End of List](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1296/)
+
+    - ### Classic Linked List Problems
+        * reverse linked list
+            * 2 different ways from leetcode
+            - [] [Reverse Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/)
