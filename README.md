@@ -1,4 +1,6 @@
 - # Linked Lists
+    * What is it?
+        - linked list is a data structure
     - ### Implementation
         - [ ] Singly-linked List (with tail w/o tail)
             - [ ] size() - returns number of data elements in list
@@ -28,12 +30,22 @@
             * 2 traversing different list sizes
         
         - practice
-            - [X] [Linked List Cycle](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/)
-            - [X] [Linked List Cycle II](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/)
-            - [X] [Intersection of Two Linked Lists](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1215/)
-            - [X] [Remove Nth Node From End of List](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1296/)
+            - [x] [Linked List Cycle](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1212/)
+            - [x] [Linked List Cycle II](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1214/)
+            - [x] [Intersection of Two Linked Lists](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1215/)
+            - [x] [Remove Nth Node From End of List](https://leetcode.com/explore/learn/card/linked-list/214/two-pointer-technique/1296/)
 
     - ### Classic Linked List Problems
-        * reverse linked list
+        * Reverse Linked List
             * 2 different ways from leetcode
-            - [] [Reverse Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/)
+            - [x] [Reverse Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1205/)
+        * Remove Linked List Elements
+            * use dummy/sentinel node technique
+            - [x] [Remove Linked List Elements](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1207/)
+        * Odd Even Linked List
+            * 2 pointer technique is useful here
+            - [x] [Odd Even Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1208/)
+        * Palindrome Linked List
+            * multiple ways to solve this
+            - [x] [Palindrome Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1209/)
+
