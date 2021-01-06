@@ -11,7 +11,7 @@
     - ### Implementation
         - [Linked List Practice on My Personal Codepen](https://codepen.io/thomastaeChoi/pen/bGpjjRE?editors=0010)
         - [ ] Singly-linked List (with tail w/o tail)
-            /* basic property & methods
+            * basic property & methods
             - [ ] get(index) - returns the value of the nth item (starting at 0 for first)
             - [ ] addAtHead(value) - adds an item to the head of the list
             - [ ] removeAtHead() - removes an item from head of the list
@@ -21,7 +21,7 @@
             - [ ] removeAtIndex(index) - removes an item at the n-th index of the list            
             - [ ] size() - returns number of data elements in list
             
-            /* special methods
+            * special methods
             - [ ] valueNFromEnd(n) - returns the value of the node at nth position from the end of the list
             - [ ] reverse() - reverses the list
             - [ ] removeValue(value) - removes the first item in the list with this value
