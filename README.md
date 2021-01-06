@@ -1,3 +1,9 @@
+# Table of Contents
+
+- [Linked Lists](#Linked-Lists)
+
+
+-----
 - # Linked Lists
     * What is it?
         - linked list is a data structure
