@@ -12,19 +12,19 @@
         - [Linked List Practice on My Personal Codepen](https://codepen.io/thomastaeChoi/pen/bGpjjRE?editors=0010)
         - [ ] Singly-linked List (with tail w/o tail)
             * basic property & methods
-            - [ ] get(index) - returns the value of the nth item (starting at 0 for first)
-            - [ ] addAtHead(value) - adds an item to the head of the list
-            - [ ] removeAtHead() - removes an item from head of the list
-            - [ ] addAtTail(value) - adds an item at the tail of the list
-            - [ ] removeAtTail() - removes an item at the tail of the list
-            - [ ] addAtIndex(index, val) - adds value at the n-th index of the list      
-            - [ ] removeAtIndex(index) - removes an item at the n-th index of the list            
-            - [ ] size() - returns number of data elements in list
+                - [ ] get(index) - returns the value of the nth item (starting at 0 for first)
+                - [ ] addAtHead(value) - adds an item to the head of the list
+                - [ ] removeAtHead() - removes an item from head of the list
+                - [ ] addAtTail(value) - adds an item at the tail of the list
+                - [ ] removeAtTail() - removes an item at the tail of the list
+                - [ ] addAtIndex(index, val) - adds value at the n-th index of the list      
+                - [ ] removeAtIndex(index) - removes an item at the n-th index of the list            
+                - [ ] size() - returns number of data elements in list
             
             * special methods
-            - [ ] valueNFromEnd(n) - returns the value of the node at nth position from the end of the list
-            - [ ] reverse() - reverses the list
-            - [ ] removeValue(value) - removes the first item in the list with this value
+                - [ ] valueNFromEnd(n) - returns the value of the node at nth position from the end of the list
+                - [ ] reverse() - reverses the list
+                - [ ] removeValue(value) - removes the first item in the list with this value
         - [ ] Doubly-linked List
             - [Description (video)](https://www.coursera.org/lecture/data-structures/doubly-linked-lists-jpGKD)
             - No need to implement but understand what's going on
