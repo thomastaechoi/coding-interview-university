@@ -5,7 +5,7 @@
 
 
 -----
-- # Linked Lists
+- ## Linked Lists
     * What is it?
         - linked list is a data structure
     - ### Implementation
@@ -56,4 +56,8 @@
             * multiple ways to solve this
             - [x] [Palindrome Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1209/)
 
-- # Google Interview Questions
+-----
+- ## Google Interview Questions
+    - ### Online Phone Screening
+        - [x] [Unique Email Addresses](https://leetcode.com/explore/interview/card/google/67/sql-2/3044/)
+        - [x] [License Key Formatting](https://leetcode.com/explore/interview/card/google/67/sql-2/472/)
