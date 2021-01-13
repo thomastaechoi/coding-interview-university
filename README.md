@@ -1,6 +1,7 @@
 # Table of Contents
 
 - [Linked Lists](#Linked-Lists)
+- [General Top Interview Questions](#General-Top-Interview-Questions)
 - [Google Interview Questions](#Google-Interview-Questions)
 
 
@@ -12,13 +13,13 @@
         - [Linked List Practice on My Personal Codepen](https://codepen.io/thomastaeChoi/pen/bGpjjRE?editors=0010)
         - [ ] Singly-linked List (with tail w/o tail)
             * basic property & methods
-                - [ ] get(index) - returns the value of the nth item (starting at 0 for first)
+                - [X] get(index) - returns the value of the nth item (starting at 0 for first)
                 - [ ] addAtHead(value) - adds an item to the head of the list
-                - [ ] removeAtHead() - removes an item from head of the list
-                - [ ] addAtTail(value) - adds an item at the tail of the list
-                - [ ] removeAtTail() - removes an item at the tail of the list
-                - [ ] addAtIndex(index, val) - adds value at the n-th index of the list      
-                - [ ] removeAtIndex(index) - removes an item at the n-th index of the list            
+                - [ ] deleteAtHead() - removes an item from head of the list
+                - [X] addAtTail(value) - adds an item at the tail of the list
+                - [ ] deleteAtTail() - removes an item at the tail of the list
+                - [ ] addAtIndex(index, val) - adds value at the n-th index of the list
+                - [ ] deleteAtIndex(index) - removes an item at the n-th index of the list
                 - [ ] size() - returns number of data elements in list
             
             * special methods
@@ -58,7 +59,36 @@
             - [x] [Palindrome Linked List](https://leetcode.com/explore/learn/card/linked-list/219/classic-problems/1209/)
 
 -----
+
+- ## General Algo Interview Questions
+    - ### Array
+        - [x] [Remove Duplicates from Sorted Array](https://leetcode.com/explore/featured/card/top-interview-questions-easy/92/array/727/)
+        - [ ] [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/)
+        - [x] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
+        - [x] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
+        - [x] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+        - [x] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
+        - [x] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
+        - [x] [Single Number](https://leetcode.com/problems/single-number/)
+        - [x] [Plus One](https://leetcode.com/problems/plus-one/)
+        - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
+        - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
+        - [ ] [Flatten Array]()
+        
+    - ### String
+        - [x] [Reverse String](https://leetcode.com/problems/reverse-string/)
+
+    - ### Binary Search
+        
+
+-----
 - ## Google Interview Questions
     - ### Online Phone Screening
         - [x] [Unique Email Addresses](https://leetcode.com/explore/interview/card/google/67/sql-2/3044/)
         - [x] [License Key Formatting](https://leetcode.com/explore/interview/card/google/67/sql-2/472/)
+        - [x] [Fruit Into Baskets](https://leetcode.com/explore/interview/card/google/67/sql-2/3046/)
+    
+    - ### Arrays and Strings
+        - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+        - [x] [Container With Most Water](https://leetcode.com/explore/interview/card/google/59/array-and-strings/3048/)
+        - [x] [K Closest Points to Origin](https://leetcode.com/explore/interview/card/google/59/array-and-strings/3062/)
