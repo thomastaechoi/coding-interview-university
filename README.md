@@ -68,9 +68,9 @@
         - [ ] [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
         - [ ] [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/)
         - [ ] [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+        - [ ] [Single Number](https://leetcode.com/problems/single-number/)
         - [ ] [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
         - [ ] [Intersection of Two Arrays II](https://leetcode.com/problems/intersection-of-two-arrays-ii/)
-        - [ ] [Single Number](https://leetcode.com/problems/single-number/)
         - [ ] [Plus One](https://leetcode.com/problems/plus-one/)
         - [ ] [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
         - [ ] [Two Sum](https://leetcode.com/problems/two-sum/)
@@ -78,6 +78,9 @@
         
     - #### String
         - [ ] [Reverse String](https://leetcode.com/problems/reverse-string/)
+        - [ ] [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
+        - [ ] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
+        - [ ] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 
     - #### Linked Lists
         - [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
